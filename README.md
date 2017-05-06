@@ -15,4 +15,4 @@ Part of the [Augmented Instruments Lab](http://instrumentslab.org) in the [Centr
 
 ### 2017
 - [NIMEcraft Workshop: Exploring the Subtleties of Digital Lutherie](https://github.com/AugmentedInstrumentsLab/NIMEcraftWorkshop). Proc. [NIME 2017](http://nime2017.org).
-- ["The finer the musician, the smaller the details": NIMEcraft under the microscope](https://github.com/jarmitage/jarmitage.github.io/blob/master/work/2017/2017_Armitage_NIMEcraft.pdf). Proc. [NIME 2017](http://nime2017.org).
+- ["The finer the musician, the smaller the details": NIMEcraft under the microscope](https://github.com/jarmitage/jarmitage.github.io/raw/master/work/2017/2017_Armitage_NIMEcraft.pdf). Proc. [NIME 2017](http://nime2017.org).
