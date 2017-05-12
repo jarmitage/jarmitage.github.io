@@ -15,4 +15,4 @@ BSc Music, Multimedia and Electronics at the University of Leeds.
 
 ### 2017
 - [NIMEcraft Workshop: Exploring the Subtleties of Digital Lutherie](https://github.com/AugmentedInstrumentsLab/NIMEcraftWorkshop). Proc. [NIME 2017](http://nime2017.org).
-- ["The finer the musician, the smaller the details": NIMEcraft under the microscope](https://github.com/jarmitage/jarmitage.github.io/raw/master/work/2017/2017_Armitage_NIMEcraft.pdf). Proc. [NIME 2017](http://nime2017.org).
+- "The finer the musician, the smaller the details": NIMEcraft under the microscope. Proc. [NIME 2017](http://nime2017.org). [Article PDF](https://github.com/jarmitage/jarmitage.github.io/raw/master/work/2017/2017_Armitage_NIMEcraft.pdf) | [Poster PDF](https://github.com/jarmitage/jarmitage.github.io/raw/master/work/2017/2017_Armitage_NIMEcraft_Poster.pdf).
