@@ -22,6 +22,7 @@ BSc Music, Multimedia and Electronics at the University of Leeds.
 - Workshop: [Atlanta Tidal Club](https://tidalclub.github.io/atlanta). Weekly Sep-Dec.
 - Talk: Crafting the fine details of digital musical instruments. School of Computer Science, Carnegie Mellon University. 15 Sep.
 - Paper (co-author): Building an IDE for an embedded system using web technologies. Proc. [Web Audio Conference 2017](http://wac.eecs.qmul.ac.uk/). [Article PDF](http://eecs.qmul.ac.uk/~keno/45.pdf). 21-23 Aug.
+- Position: Visiting Scholar, [Center for Music Technology](http://gtcmt.gatech.edu), Georgia Institute of Technology. Supervisor: Prof. Jason Freeman. Aug-Dec.
 - Workshop: [Live Coding Bootcamp](https://www.vam.ac.uk/event/pAOm6b3M/live-coding-bootcamp-july-2017). Victoria & Albert Museum, London. 29-30 July.
 - Talk: Crafting digital musical instruments. Queen Mary University of London. 26 July.
 - Workshop: [SuperCollider on Bela workshop: audio and sensors on an embedded platform](https://www.eventbrite.co.uk/e/supercollider-on-bela-workshop-audio-and-sensors-on-an-embedded-platform-tickets-35688190338#). Queen Mary University of London. 19 July.
