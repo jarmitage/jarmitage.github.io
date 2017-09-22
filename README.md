@@ -1,9 +1,11 @@
 ![](https://avatars0.githubusercontent.com/u/2885827?v=3&s=40)
 # Jack Armitage
 
-PhD student researching craft in digital musical instrument design.
+PhD student researching craft in digital musical instrument design, supervised by Dr. Andrew McPherson.
 
-Part of [Bela](http://bela.io) and the [Augmented Instruments Lab](http://instrumentslab.org) in the [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk) at Queen Mary University of London.
+Currently Visiting Scholar at the [Center for Music Technology](http://gtcmt.gatech.edu), Georgia Institute of Technology, supervised by Prof. Jason Freeman.
+
+Part of [Bela](http://bela.io) and the [Augmented Instruments Lab](http://instrumentslab.org) in the [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk) at Queen Mary University of London. 
 
 Former research engineer at [ROLI](http://roli.com) and [FXpansion](http://fxpansion.com).
 
