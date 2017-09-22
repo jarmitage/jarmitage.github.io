@@ -14,10 +14,10 @@ BSc Music, Multimedia and Electronics at the University of Leeds.
 ## Recent
 
 ### 2017
-- Talk (co-author): Ephemeral Objects and Enduring Knowledge in the Creation of Digital Musical Instruments. [MIRN Conference: The Lifecycle of Musical Instruments](https://mirn.org.uk/events/), Horniman Museum, London. 12 Oct.
 - Workshop: [Live Coding Music with TidalCycles](https://livecoding.eventbrite.com/?aff=ja). Brooklyn Research, New York. 16 Oct.
 - Workshop: Embedded digital musical instruments with Bela. [New Musical Instruments Hackathon](http://monthlymusichackathon.org/post/163742188892/new-musical-instruments-hackathon), New York. 14 Oct.
 - Workshop: Live Coding Music with TidalCycles. Integrated Digital Media, Tandon School of Engineering, New York University, New York. 13 Oct.
+- Talk (co-author): Ephemeral Objects and Enduring Knowledge in the Creation of Digital Musical Instruments. [MIRN Conference: The Lifecycle of Musical Instruments](https://mirn.org.uk/events/), Horniman Museum, London. 12 Oct.
 - Reviews: [International Conferenece on Live Coding 2017](http://iclc.livecodenetwork.org/2017/), Morelia, Mexico. 4-8 Dec.
 - Workshop: [Atlanta Tidal Club](https://tidalclub.github.io/atlanta). Weekly Sep-Dec.
 - Talk: Crafting the fine details of digital musical instruments. School of Computer Science, Carnegie Mellon University. 15 Sep.
