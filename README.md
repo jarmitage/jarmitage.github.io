@@ -16,6 +16,8 @@ BSc Music, Multimedia and Electronics at the University of Leeds.
 ## Recent
 
 ### 2017
+- Demo & Poster: The Stenophone: live coding on a chorded keyboard with continuous control. [International Conference on Live Coding 2017](http://iclc.livecodenetwork.org/2017/). Morelia, Mexico. 4-8 Dec.
+- Workshop: SuperCollider on Bela workshop: audio and sensors on an embedded platform. [International Conference on Live Coding 2017](http://iclc.livecodenetwork.org/2017/). Morelia, Mexico. 4-8 Dec.
 - Workshop: [Live Coding Music with TidalCycles](https://livecoding.eventbrite.com/?aff=ja). Brooklyn Research, New York. 16 Oct.
 - Workshop: Embedded digital musical instruments with Bela. [New Musical Instruments Hackathon](http://monthlymusichackathon.org/post/163742188892/new-musical-instruments-hackathon), New York. 14 Oct.
 - Workshop: Live Coding Music with TidalCycles. Integrated Digital Media, Tandon School of Engineering, New York University, New York. 13 Oct.
