@@ -16,7 +16,7 @@ BSc Music, Multimedia and Electronics at the University of Leeds.
 ## Recent
 
 ### 2017
-- Talk: The Stenophone: live coding on a chorded keyboard with continuous control. [International Conference on Live Coding 2017](http://iclc.livecodenetwork.org/2017/). Morelia, Mexico. 4-8 Dec.
+- Talk: The Stenophone: live coding on a chorded keyboard with continuous control. [International Conference on Live Coding 2017](http://iclc.livecodenetwork.org/2017/). Morelia, Mexico. 4-8 Dec. [Open Source Design](http://github.com/jarmitage/stenophone), [Article PDF](https://github.com/jarmitage/stenophone/raw/master/docs/stenophone_iclc2017.pdf).
 - Workshop: SuperCollider on Bela workshop: audio and sensors on an embedded platform. [International Conference on Live Coding 2017](http://iclc.livecodenetwork.org/2017/). Morelia, Mexico. 4-8 Dec.
 - Workshop: [Live Coding Music with TidalCycles](https://www.meetup.com/Freeside-Atlanta/events/242906624/). Freeside Atlanta, Atlanta, US. 11 Nov.
 - Workshop: [Live Coding Music with TidalCycles](https://www.meetup.com/Art-in-Tech-Atlanta/events/244453795/). Art In Tech Atlanta, Atlanta, US. 28 Oct.
