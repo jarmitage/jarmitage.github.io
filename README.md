@@ -1,9 +1,6 @@
-![](https://avatars0.githubusercontent.com/u/2885827?v=3&s=40)
 # Jack Armitage
 
-PhD student researching craft in digital musical instrument design, supervised by Dr. Andrew McPherson.
-
-Currently Visiting Scholar at the [Center for Music Technology](http://gtcmt.gatech.edu), Georgia Institute of Technology, supervised by Prof. Jason Freeman.
+PhD student researching craft in digital musical instrument design, supervised by Dr. Andrew McPherson. [Research mailing list](http://eepurl.com/dgZ-yH).
 
 Part of [Bela](http://bela.io) and the [Augmented Instruments Lab](http://instrumentslab.org) in the [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk) at Queen Mary University of London. 
 
@@ -16,6 +13,7 @@ BSc Music, Multimedia and Electronics at the University of Leeds.
 ## Recent
 
 ### 2017
+- Visiting Scholar at the [Center for Music Technology](http://gtcmt.gatech.edu), Georgia Institute of Technology, supervised by Prof. Jason Freeman. Aug-Dec.
 - Talk: The Stenophone: live coding on a chorded keyboard with continuous control. [International Conference on Live Coding 2017](http://iclc.livecodenetwork.org/2017/). Morelia, Mexico. 4-8 Dec. [Open Source Design](http://github.com/jarmitage/stenophone), [Article PDF](https://github.com/jarmitage/stenophone/raw/master/docs/stenophone_iclc2017.pdf).
 - Workshop: SuperCollider on Bela workshop: audio and sensors on an embedded platform. [International Conference on Live Coding 2017](http://iclc.livecodenetwork.org/2017/). Morelia, Mexico. 4-8 Dec.
 - Workshop: [Live Coding Music with TidalCycles](https://www.meetup.com/Freeside-Atlanta/events/242906624/). Freeside Atlanta, Atlanta, US. 11 Nov.
