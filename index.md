@@ -124,3 +124,11 @@ Jack Armitage, Kyle Molleson, Michael Battcock, Chris Earnshaw, David Moore & Ki
 
 - [Web Audio Conference 2018](http://webaudioconf.com/).
 - [International Conferenece on Live Coding 2017](http://iclc.livecodenetwork.org/2017/).
+
+-----
+
+### Performances
+
+- "Language Embodiment ¿?" with Esteban Betancur, New Interfaces for Musical Expression 2018, Virginia, US, June 2018.
+- LiveCode.NYC Algorave Arcade, New York, 20 April 2018.
+- Algorave, International Conference on Live Coding, Morelia, Mexico, December 2017.
