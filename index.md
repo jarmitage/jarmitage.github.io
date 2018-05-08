@@ -56,7 +56,7 @@ Avneesh Sarwate, Ryan Rose, Jack Armitage & Jason Freeman. _Proceedings of the I
 
 Jack Armitage & Andrew McPherson. _Proceedings of the International Conference on Live Coding_, 2017.
 
-[[HTML]() | [PDF](https://www.researchgate.net/profile/Jack_Armitage/publication/321753354_The_Stenophone_live_coding_on_a_chorded_keyboard_with_continuous_control/links/5a2fe340458515a13d851aee/The-Stenophone-live-coding-on-a-chorded-keyboard-with-continuous-control.pdf) | [Bibtex]() | [Google Scholar](https://scholar.google.co.uk/citations?user=APvoBhUAAAAJ)]
+[[Repo](https://github.com/jarmitage/stenophone) | [HTML]() | [PDF](https://www.researchgate.net/profile/Jack_Armitage/publication/321753354_The_Stenophone_live_coding_on_a_chorded_keyboard_with_continuous_control/links/5a2fe340458515a13d851aee/The-Stenophone-live-coding-on-a-chorded-keyboard-with-continuous-control.pdf) | [Bibtex]() | [Google Scholar](https://scholar.google.co.uk/citations?user=APvoBhUAAAAJ)]
 
 -----
 
