@@ -20,7 +20,7 @@ BSc Music, Multimedia and Electronics at the University of Leeds.
 
 ### Publications and conference workshops
 
-| [Bibtex of all references](https://raw.githubusercontent.com/jarmitage/jarmitage.github.io/master/work/bibtex/_references.bib) |
+| [Bibtex of all references](https://raw.githubusercontent.com/jarmitage/jarmitage.github.io/master/research/bibtex/_references.bib) |
 
 -----
 
