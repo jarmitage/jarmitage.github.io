@@ -14,7 +14,7 @@ Former research engineer at [ROLI](http://roli.com) and [FXpansion](http://fxpan
 
 BSc Music, Multimedia and Electronics at the University of Leeds.
 
-[[Research mailing list](http://eepurl.com/dgZ-yH) | [Email](mailto:jack@jackarmitage.com) | [GitHub](http://github.com/jarmitage) | [Twitter](http://twitter.com/jdkarmitage) | [Google Scholar](https://scholar.google.com/citations?user=APvoBhUAAAAJ) | [LinkedIn](https://www.linkedin.com/in/jackarmitage/)]
+[Research mailing list](http://eepurl.com/dgZ-yH) | [Email](mailto:jack@jackarmitage.com) | [GitHub](http://github.com/jarmitage) | [Twitter](http://twitter.com/jdkarmitage) | [Google Scholar](https://scholar.google.com/citations?user=APvoBhUAAAAJ) | [LinkedIn](https://www.linkedin.com/in/jackarmitage/)
 
 ## Research
 
@@ -26,9 +26,9 @@ BSc Music, Multimedia and Electronics at the University of Leeds.
 
 Jack Armitage & Andrew McPherson. _Proceedings of the International Conference on New Interfaces for Musical Expression (NIME)_, 2018.
 
-> In digital musical instrument design, different tools and methods offer a variety of approaches for constraining the exploration of musical gestures and sounds. Toolkits made of modular components usefully constrain exploration towards simple, quick and functional combinations, and methods such as sketching and model-making alternatively allow imagination and narrative to guide exploration. In this work we sought to investigate a context where these approaches to exploration were combined. We designed a craft workshop for 20 musical instrument designers, where groups were given the same partly-finished instrument to craft for one hour with raw materials, and though the task was open ended, they were prompted to focus on subtle details that might distinguish their instruments. Despite the prompt the groups diverged dramatically in intent and style, and generated gestural language rapidly and flexibly. By the end, each group had developed a distinctive approach to constraint, exploratory style, collaboration and interpretation of the instrument and workshop materials. We reflect on this outcome to discuss advantages and disadvantages to integrating digital musical instrument design tools and methods, and how to further investigate and extend this approach.
+> In digital musical instrument design, different tools and methods offer a variety of approaches for constraining the exploration of musical gestures and sounds. Toolkits made of modular components usefully constrain exploration towards simple, quick and functional combinations, and methods such as sketching and model-making alternatively allow imagination and narrative to guide exploration. In this work we sought to investigate a context where these approaches to exploration were combined. We designed a craft workshop for 20 musical instrument designers, where groups were given the same partly-finished instrument to craft for one hour with raw materials, and though the task was open ended, they were prompted to focus on subtle details that might distinguish their instruments.
 
-[[HTML]() | [PDF](https://www.researchgate.net/profile/Jack_Armitage/publication/324783048_Crafting_Digital_Musical_Instruments_An_Exploratory_Workshop_Study/links/5ae4f89c0f7e9b9793c5ff17/Crafting-Digital-Musical-Instruments-An-Exploratory-Workshop-Study.pdf) | [Bibtex]() | [Google Scholar](https://scholar.google.co.uk/citations?user=APvoBhUAAAAJ)]
+[HTML]() | [PDF](https://www.researchgate.net/profile/Jack_Armitage/publication/324783048_Crafting_Digital_Musical_Instruments_An_Exploratory_Workshop_Study/links/5ae4f89c0f7e9b9793c5ff17/Crafting-Digital-Musical-Instruments-An-Exploratory-Workshop-Study.pdf) | [Bibtex]() | [Google Scholar](https://scholar.google.co.uk/citations?user=APvoBhUAAAAJ)
 
 -----
 
@@ -38,7 +38,7 @@ Spencer Salazar & Jack Armitage. _Proceedings of the International Conference on
 
 > At first glance, the practice of musical live coding seems distanced from the gestures and sense of embodiment common in musical performance, electronic or otherwise. This workshop seeks to explore the extent to which this assertion is justified, to re-examine notions of gesture and embodiment in musical live coding performance, to consider historical approaches for integrating musical programming and gesture, and to look to the future for new ways of fusing the two. The workshop will consist firstly of a critical discussion of these issues and related literature. This will be followed by applied practical experiments involving ideas generated during these discussions. The workshop will conclude with a recapitulation and examination of these experiments in the context of previous research and proposed future directions.
 
-[[Call](https://embodiedlivecoding.github.io/nime2018-workshop/) | [HTML](https://embodiedlivecoding.github.io/nime2018-workshop/workshop-paper.html) | [PDF](https://www.researchgate.net/profile/Jack_Armitage/publication/324783054_Re-engaging_the_Body_and_Gesture_in_Musical_Live_Coding/links/5ae2096aa6fdcc9139a0e128/Re-engaging-the-Body-and-Gesture-in-Musical-Live-Coding.pdf) | [Bibtex]() | [Google Scholar](https://scholar.google.co.uk/citations?user=APvoBhUAAAAJ)]
+[Call](https://embodiedlivecoding.github.io/nime2018-workshop/) | [HTML](https://embodiedlivecoding.github.io/nime2018-workshop/workshop-paper.html) | [PDF](https://www.researchgate.net/profile/Jack_Armitage/publication/324783054_Re-engaging_the_Body_and_Gesture_in_Musical_Live_Coding/links/5ae2096aa6fdcc9139a0e128/Re-engaging-the-Body-and-Gesture-in-Musical-Live-Coding.pdf) | [Bibtex]() | [Google Scholar](https://scholar.google.co.uk/citations?user=APvoBhUAAAAJ)
 
 -----
 
@@ -46,7 +46,7 @@ Spencer Salazar & Jack Armitage. _Proceedings of the International Conference on
 
 Avneesh Sarwate, Ryan Rose, Jack Armitage & Jason Freeman. _Proceedings of the International Conference on New Interfaces for Musical Expression (NIME)_, 2018.
 
-[[HTML]() | [PDF]() | [Bibtex]() | [Google Scholar](https://scholar.google.co.uk/citations?user=APvoBhUAAAAJ)]
+[HTML]() | [PDF]() | [Bibtex]() | [Google Scholar](https://scholar.google.co.uk/citations?user=APvoBhUAAAAJ)
 
 -----
 
@@ -56,7 +56,7 @@ Avneesh Sarwate, Ryan Rose, Jack Armitage & Jason Freeman. _Proceedings of the I
 
 Jack Armitage & Andrew McPherson. _Proceedings of the International Conference on Live Coding_, 2017.
 
-[[Repo](https://github.com/jarmitage/stenophone) | [HTML]() | [PDF](https://www.researchgate.net/profile/Jack_Armitage/publication/321753354_The_Stenophone_live_coding_on_a_chorded_keyboard_with_continuous_control/links/5a2fe340458515a13d851aee/The-Stenophone-live-coding-on-a-chorded-keyboard-with-continuous-control.pdf) | [Bibtex]() | [Google Scholar](https://scholar.google.co.uk/citations?user=APvoBhUAAAAJ)]
+[Repo](https://github.com/jarmitage/stenophone) | [HTML]() | [PDF](https://www.researchgate.net/profile/Jack_Armitage/publication/321753354_The_Stenophone_live_coding_on_a_chorded_keyboard_with_continuous_control/links/5a2fe340458515a13d851aee/The-Stenophone-live-coding-on-a-chorded-keyboard-with-continuous-control.pdf) | [Bibtex]() | [Google Scholar](https://scholar.google.co.uk/citations?user=APvoBhUAAAAJ)
 
 -----
 
@@ -64,7 +64,7 @@ Jack Armitage & Andrew McPherson. _Proceedings of the International Conference o
 
 Liam Donovan, S. Astrid Bin, Jack Armitage & Andrew McPherson. _Proceedings of the Web Audio Conference_, 2017.
 
-[[HTML]() | [PDF]() | [DOI]() | [Bibtex]() | [Google Scholar](https://scholar.google.co.uk/citations?user=APvoBhUAAAAJ)]
+[HTML]() | [PDF](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/26166/45.pdf?sequence=1) | [Bibtex]() | [Google Scholar](https://scholar.google.co.uk/citations?user=APvoBhUAAAAJ)
 
 -----
 
@@ -74,7 +74,7 @@ Liam Donovan, S. Astrid Bin, Jack Armitage & Andrew McPherson. _Proceedings of t
 
 Jack Armitage & Andrew McPherson. _Proceedings of the International Conference on New Interfaces for Musical Expression (NIME)_, 2017.
 
-[[HTML]() | [PDF](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/22883/Armitage%20The%20finer%20the%20musician%202017%20Published.pdf?sequence=1) | [DOI]() | [Bibtex]() | [Google Scholar](https://scholar.google.co.uk/citations?user=APvoBhUAAAAJ)]
+[HTML]() | [PDF](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/22883/Armitage%20The%20finer%20the%20musician%202017%20Published.pdf?sequence=1) | [DOI]() | [Bibtex]() | [Google Scholar](https://scholar.google.co.uk/citations?user=APvoBhUAAAAJ)
 
 -----
 
@@ -82,7 +82,7 @@ Jack Armitage & Andrew McPherson. _Proceedings of the International Conference o
 
 Andrew McPherson, Jack Armitage, S. Astrid Bin, Fabio Morreale & Robert Jack. Workshop held at the _International Conference on New Interfaces for Musical Expression (NIME)_, 2017.
 
-[[HTML]() | [PDF]() | [Repo](https://github.com/AugmentedInstrumentsLab/NIMEcraftWorkshop)]
+[HTML]() | [PDF]() | [Repo](https://github.com/AugmentedInstrumentsLab/NIMEcraftWorkshop)
 
 -----
 
@@ -90,7 +90,7 @@ Andrew McPherson, Jack Armitage, S. Astrid Bin, Fabio Morreale & Robert Jack. Wo
 
 Jack Armitage, Kyle Molleson, Michael Battcock, Chris Earnshaw, David Moore & Kia Ng. _Proceedings of the Electronic Visualisation and the Arts Conference_, 2012.
 
-[[HTML]() | [PDF]() | [DOI]() | [Bibtex]() | [Google Scholar](https://scholar.google.co.uk/citations?user=APvoBhUAAAAJ)]
+[HTML]() | [PDF]() | [DOI]() | [Bibtex]() | [Google Scholar](https://scholar.google.co.uk/citations?user=APvoBhUAAAAJ)
 
 -----
 
@@ -100,6 +100,8 @@ Jack Armitage, Kyle Molleson, Michael Battcock, Chris Earnshaw, David Moore & Ki
 - Crafting the fine details of digital musical instruments. School of Computer Science, Carnegie Mellon University. 15 Sep 2017.
 - Crafting digital musical instruments. Queen Mary University of London. 26 July 2017.
 - Music, musical instrument design tools and back again. Virtual Reality UK Festival, Ravensbourne University. 12 July 2017.
+
+----- 
 
 ### Workshops
 - SuperCollider on Bela workshop: audio and sensors on an embedded platform. [International Conference on Live Coding 2017](http://iclc.livecodenetwork.org/2017/). Morelia, Mexico. 4-8 Dec 2017.
@@ -115,6 +117,8 @@ Jack Armitage, Kyle Molleson, Michael Battcock, Chris Earnshaw, David Moore & Ki
 - [TidalCycles Meetup](http://musichackspace.org/events/meetup-tidalcycles-calum-gunn-2/). Music Hackspace London. 10 July 2017.
 - [NIMEcraft Workshop: Exploring the Subtleties of Digital Lutherie](https://github.com/AugmentedInstrumentsLab/NIMEcraftWorkshop). Proc. [NIME 2017](http://nime2017.org). 14 May 2017.
 - [TidalCycles Meetup](http://musichackspace.org/events/music-hackspace-presents-first-london-tidalcycles-meetup/). Music Hackspace London. 5 April 2017.
+
+-----
 
 ### Reviews
 
