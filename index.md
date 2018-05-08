@@ -127,7 +127,7 @@ Jack Armitage, Kyle Molleson, Michael Battcock, Chris Earnshaw, David Moore & Ki
 
 -----
 
-### Performances
+### Performances
 
 - "Language Embodiment ¿?" with Esteban Betancur, New Interfaces for Musical Expression 2018, Virginia, US, June 2018.
 - LiveCode.NYC Algorave Arcade, New York, 20 April 2018.
