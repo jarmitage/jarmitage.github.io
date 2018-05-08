@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Jack Armitage
 
 PhD student researching craft in digital musical instrument design, supervised by Dr. Andrew McPherson. [Research mailing list](http://eepurl.com/dgZ-yH).
