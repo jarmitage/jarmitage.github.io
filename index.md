@@ -4,15 +4,11 @@ layout: default
 
 ## Jack Armitage
 
-PhD student researching craft in digital musical instrument design, supervised by Dr. Andrew McPherson.
+I am a designer, musician and technologist. Currently I am a PhD student researching craft in digital musical instrument design, supervised by Dr. Andrew McPherson in the [Augmented Instruments Lab](http://instrumentslab.org), [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk), Queen Mary University of London. I am also part of the open source [Bela](http://bela.io) project for making interactive audio projects.
 
-Aug-Dec 2017, Visiting Scholar at the [Center for Music Technology](http://gtcmt.gatech.edu), Georgia Institute of Technology, supervised by Prof. Jason Freeman.
+From August to December 2017 I was a Visiting Scholar at the [Center for Music Technology](http://gtcmt.gatech.edu), Georgia Institute of Technology, working with Prof. Jason Freeman. Before my PhD I was a research engineer at [ROLI](http://roli.com) and [FXpansion](http://fxpansion.com), and before that I completed a BSc in Music, Multimedia and Electronics at the University of Leeds.
 
-Part of [Bela](http://bela.io) and the [Augmented Instruments Lab](http://instrumentslab.org) in the [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk) at Queen Mary University of London. 
-
-Former research engineer at [ROLI](http://roli.com) and [FXpansion](http://fxpansion.com).
-
-BSc Music, Multimedia and Electronics at the University of Leeds.
+To get in touch:
 
 [Research mailing list](http://eepurl.com/dgZ-yH) | [Email](mailto:jack@jackarmitage.com) | [GitHub](http://github.com/jarmitage) | [Twitter](http://twitter.com/jdkarmitage) | [Google Scholar](https://scholar.google.com/citations?user=APvoBhUAAAAJ) | [LinkedIn](https://www.linkedin.com/in/jackarmitage/)
 
