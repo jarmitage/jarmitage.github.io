@@ -72,7 +72,7 @@ Subsequently the workshop design is detailed, and the outcomes are
 reported on and discussed. We conclude by reflecting on their possible
 consequences for combining instrument design tools and methods.
 
-![image](../img/designprocess_sm.jpg){width="100.00000%"}
+![image](../img/2018_designprocess_sm.jpg){width="100.00000%"}
 
 Background
 ==========
@@ -267,7 +267,7 @@ slowly change octaves, but mis-judged the size of the buffer so we
 created an extremely fast arpeggiator (like 8-bit video game polyphony)
 instead, which turned out to give our instrument a unique sound.”*
 
-![image](../img/results_sm.jpg){width="100.00000%"}
+![image](../img/2018_results_sm.jpg){width="100.00000%"}
 
 ### Group 3
 
@@ -505,7 +505,7 @@ group process like that.”*
 
 ![Variation of group organisation and instrument structure compared with
 starting
-point.[]{data-label="fig:collaboration"}](../img/collaboration.jpg){width="1\columnwidth"}
+point.[]{data-label="fig:collaboration"}](../img/2018_collaboration.jpg){width="1\columnwidth"}
 
 Discussion
 ==========
