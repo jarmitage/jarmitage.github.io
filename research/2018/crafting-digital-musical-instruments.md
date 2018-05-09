@@ -1,84 +1,70 @@
 ---
-abstract: |
-    In digital musical instrument design, different tools and methods offer
-    a variety of approaches for constraining the exploration of musical
-    gestures and sounds. Toolkits made of modular components usefully
-    constrain exploration towards simple, quick and functional combinations,
-    and methods such as sketching and model-making alternatively allow
-    imagination and narrative to guide exploration. In this work we sought
-    to investigate a context where these approaches to exploration were
-    combined. We designed a craft workshop for 20 musical instrument
-    designers, where groups were given the same partly-finished instrument
-    to craft for one hour with raw materials, and though the task was open
-    ended, they were prompted to focus on subtle details that might
-    distinguish their instruments. Despite the prompt the groups diverged
-    dramatically in intent and style, and generated gestural language
-    rapidly and flexibly. By the end, each group had developed a distinctive
-    approach to constraint, exploratory style, collaboration and
-    interpretation of the instrument and workshop materials. We reflect on
-    this outcome to discuss advantages and disadvantages to integrating
-    digital musical instrument design tools and methods, and how to further
-    investigate and extend this approach.
-author:
-- |
-    Jack Armitage\
-    \
-    \
-    \
-    \
-    \
-    Andrew McPherson\
-    \
-    \
-    \
-    \
-    \
-bibliography:
-- 'references.bib'
-title: |
-    Crafting Digital Musical Instruments:\
-    An Exploratory Workshop Study
+layout: default
 ---
+
+# Crafting Digital Musical Instruments: An Exploratory Workshop Study
+
+Abstract
+--------
+
+In digital musical instrument design, different tools and methods offer
+a variety of approaches for constraining the exploration of musical
+gestures and sounds. Toolkits made of modular components usefully
+constrain exploration towards simple, quick and functional combinations,
+and methods such as sketching and model-making alternatively allow
+imagination and narrative to guide exploration. In this work we sought
+to investigate a context where these approaches to exploration were
+combined. We designed a craft workshop for 20 musical instrument
+designers, where groups were given the same partly-finished instrument
+to craft for one hour with raw materials, and though the task was open
+ended, they were prompted to focus on subtle details that might
+distinguish their instruments. Despite the prompt the groups diverged
+dramatically in intent and style, and generated gestural language
+rapidly and flexibly. By the end, each group had developed a distinctive
+approach to constraint, exploratory style, collaboration and
+interpretation of the instrument and workshop materials. We reflect on
+this outcome to discuss advantages and disadvantages to integrating
+digital musical instrument design tools and methods, and how to further
+investigate and extend this approach.
 
 Introduction
 ============
 
-Magnusson [@magnusson_epistemic_2009] emphasises the pronounced
-epistemic dimension of digital instruments when compared to acoustic
-ones; digital instruments are created top-down through prior absorption
-of a technical, symbolic body of knowledge, after which an explicit
+Magnusson (Magnusson 2009) emphasises the pronounced epistemic dimension
+of digital instruments when compared to acoustic ones; digital
+instruments are created top-down through prior absorption of a
+technical, symbolic body of knowledge, after which an explicit
 implementation is designed. In contrast, they describe acoustic
 instrument creation as being tied to bottom-up processes; acoustic and
 mechanical properties of materials are explored experientially leading
 to their configuration into instruments. With acoustic materials,
 Magnusson describes, “the sound generation (and the required knowledge
-of it) is given to us for free by nature” [@magnusson_designing_2010].
+of it) is given to us for free by nature” (Magnusson 2010).
 
 Acknowledging the benefits of this direct relationship with material,
 many digital instruments and design tools aim to give designers and
 players a comparable freedom to explore. Many examples of this exist,
 such as in modular synthesis where notionally symbolic circuits are
-explored as hands-on material [@flood_building_2016]. Software arts
-practitioners and tool makers have emphasised the importance of
-materiality and craft in exploring code
-[@bertelsen_emerging_2009; @lindell_crafting_2014]. Innovative works in
-e-textiles [@stewart_making_2018] and paper electronics [@qi_code_2017]
-integrate functionality directly into materials, inviting new ways to
-explore function and form. An altogether different exploratory
-experience is provided by instrument design methods employing sketching,
-fiction and imagination
-[@andersen_instrument_2017; @monache_cooperative_2016].
+explored as hands-on material (Flood 2016). Software arts practitioners
+and tool makers have emphasised the importance of materiality and craft
+in exploring code (Bertelsen, Breinbjerg, and Pold 2009; Lindell 2014).
+Innovative works in e-textiles (Stewart, Skach, and Bin 2018) and paper
+electronics (Qi, Demir, and Paradiso 2017) integrate functionality
+directly into materials, inviting new ways to explore function and form.
+An altogether different exploratory experience is provided by instrument
+design methods employing sketching, fiction and imagination (Andersen
+and Gibson 2017; Monache and Rocchesso 2016).
 
 Inspired by these various approaches, we were motivated to investigate a
-context where the constraints of a toolkit [@magnusson_designing_2010]
-and the openness of craft-inspired [@kettley_foundations_2012]
-model-making coincide. We created a workshop where groups of
-participants used crafting materials to modify a kit-based digital
-musical instrument prototype that we described as “unfinished” to
-encourage exploration. In this work we seek to interpret the responses
-and outcomes to gain insight into the impact of combining different
-styles of constraints, and to understand how different materials affect
-exploratory process in digital musical instrument design.
+context where the constraints of a toolkit (Magnusson 2010) and the
+openness of craft-inspired (Kettley 2012) model-making coincide. We
+created a workshop where groups of participants used crafting materials
+to modify a kit-based digital musical instrument prototype that we
+described as “unfinished” to encourage exploration. In this work we seek
+to interpret the responses and outcomes to gain insight into the impact
+of combining different styles of constraints, and to understand how
+different materials affect exploratory process in digital musical
+instrument design.
 
 The next section of this paper contrasts different approaches to
 supporting exploration in digital musical instrument design.
@@ -86,7 +72,7 @@ Subsequently the workshop design is detailed, and the outcomes are
 reported on and discussed. We conclude by reflecting on their possible
 consequences for combining instrument design tools and methods.
 
-![image](img/designprocess_sm.jpg){width="100.00000%"}
+![image](../img/designprocess_sm.jpg){width="100.00000%"}
 
 Background
 ==========
@@ -97,48 +83,46 @@ Comparing across toolkits and methods
 Digital instrument design toolkits are useful design aids that abstract
 implementation details into modular parts whose combination can be
 rapidly explored. Toolkits reflect specific musical cultures and
-knowledges [@magnusson_epistemic_2009] such as instrument classification
-systems [@calegario_method_2017] and synthesis approaches, which through
+knowledges (Magnusson 2009) such as instrument classification systems
+(Calegario et al. 2017) and synthesis approaches, which through
 abstraction gain extra flexibility allowing for novel recombinations.
 One disadvantage of toolkits is that the original material qualities of
 the parts are no longer present; a tangible media token of cardboard,
-plastic or wallpaper will still perform the same function
-[@preston_enabling_2017]. Another disadvantage is that in reifying
-familiar bodies of knowledge, they make bottom-up exploration outside of
-those boundaries difficult at the expense of artistic appropriation
-[@dix_designing_2007; @hornecker_beyond_2012]. While evidence suggests
-that expert toolkit users overcome the toolkit’s influence
-[@bertelsen_emerging_2009], for beginners it is easy to mistake a
-toolkit’s perspective for the art and craft itself
-[@mooney_frameworks_2011].
+plastic or wallpaper will still perform the same function (Preston et
+al. 2017). Another disadvantage is that in reifying familiar bodies of
+knowledge, they make bottom-up exploration outside of those boundaries
+difficult at the expense of artistic appropriation (Dix 2007; Hornecker
+2012). While evidence suggests that expert toolkit users overcome the
+toolkit’s influence (Bertelsen, Breinbjerg, and Pold 2009), for
+beginners it is easy to mistake a toolkit’s perspective for the art and
+craft itself (Mooney 2011).
 
 Alternative approaches to toolkit-based design exploration aim to
 provide different constraints. They propose that where design media
 exerts less influence on which ideas are easy to represent, the designer
-can instead explore personal expression and imagination
-[@perner-wilson_handcrafting_2011]. These approaches are often led by
-material and conceptual interests, taking inspiration from craft
-principles [@kettley_foundations_2012] and traditional design methods
-like sketching [@monache_cooperative_2016] and fictional model-making
-[@andersen_instrument_2017]. Unlike with design toolkits, in these
-methods designers are sometimes distanced from real interactions and
-behaviours as these instead take on looser or imaginary forms.
-Ultimately, these differing approaches to exploration could offer
-complimentary benefits to digital luthiers.
+can instead explore personal expression and imagination (Perner-Wilson,
+Buechley, and Satomi 2011). These approaches are often led by material
+and conceptual interests, taking inspiration from craft principles
+(Kettley 2012) and traditional design methods like sketching (Monache
+and Rocchesso 2016) and fictional model-making (Andersen and Gibson
+2017). Unlike with design toolkits, in these methods designers are
+sometimes distanced from real interactions and behaviours as these
+instead take on looser or imaginary forms. Ultimately, these differing
+approaches to exploration could offer complimentary benefits to digital
+luthiers.
 
 Addressing diverse needs in digital lutherie {#questions}
 --------------------------------------------
 
 Digital luthiers are highly interdisciplinary practitioners who often
-perform combined roles of inventor, maker and player
-[@jorda_digital_2005; @fmorreale_2017]. As designers they need to
-explore the implementation, look and feel, and role of their designs as
-separate and integrated issues [@houde_what_1997], typically as part of
-a non-linear process [@goldschmidt_linkography:_2014]. In their process
-they need to not only formulate and synthesise new ideas, but also take
-reified ideas and prototypes and make them “malleable”
-[@andersen_instrument_2017] through decomposition and dissection
-[@murer_-crafting:_2017].
+perform combined roles of inventor, maker and player (Jordà 2005;
+Morreale and McPherson 2017). As designers they need to explore the
+implementation, look and feel, and role of their designs as separate and
+integrated issues (Houde and Hill 1997), typically as part of a
+non-linear process (Goldschmidt 2014). In their process they need to not
+only formulate and synthesise new ideas, but also take reified ideas and
+prototypes and make them “malleable” (Andersen and Gibson 2017) through
+decomposition and dissection (Murer, Fuchsberger, and Tscheligi 2017).
 
 Recognising these diverse needs, we designed a workshop facilitating
 exploration using both toolkit and craft-inspired approaches to
@@ -161,10 +145,10 @@ submission was required. We expected but did not require participants to
 be digital luthiers, and participants with experience in traditional or
 acoustic instrument making or non-musical crafts were also welcome. The
 organisers gave an introduction to the subject area, where they
-introduced a theme of craft in NIME [@armitage_finer_2017] as a starting
-point for discussion. We devised a crafting activity that would
-compliment discussions and reflection about craft in NIME, and how it
-can be shared in the community.
+introduced a theme of craft in NIME (Armitage, Morreale, and McPherson
+2017) as a starting point for discussion. We devised a crafting activity
+that would compliment discussions and reflection about craft in NIME,
+and how it can be shared in the community.
 
 The Unfinished Instrument
 -------------------------
@@ -172,11 +156,11 @@ The Unfinished Instrument
 The goal of the activity was to facilitate open ended crafting of a
 prototype instrument, that could appear to be “unfinished” and
 subjectively reinterpreted. This process is illustrated in Figure
-\[fig:designprocess\] and started with appropriating
-[@dix_designing_2007] and un-crafting [@murer_-crafting:_2017] an
-existing instrument called the AirHarp[^1] developed by Chris Heinrichs
-in C++ using the Bela platform [@mcpherson_environment_2015], chosen for
-its flexible synthesis of virtual string sounds using audio-rate sensor
+\[fig:designprocess\] and started with appropriating (Dix 2007) and
+un-crafting (Murer, Fuchsberger, and Tscheligi 2017) an existing
+instrument called the AirHarp[^1] developed by Chris Heinrichs in C++
+using the Bela platform (McPherson and Zappi 2015), chosen for its
+flexible synthesis of virtual string sounds using audio-rate sensor
 inputs. Its physical model excited by an accelerometer was replaced with
 up to eight low cost microphone capsules. This offered a high-bandwidth
 connection between physical behaviour and sonic response, necessary for
@@ -283,7 +267,7 @@ slowly change octaves, but mis-judged the size of the buffer so we
 created an extremely fast arpeggiator (like 8-bit video game polyphony)
 instead, which turned out to give our instrument a unique sound.”*
 
-![image](img/results_sm.jpg){width="100.00000%"}
+![image](../img/results_sm.jpg){width="100.00000%"}
 
 ### Group 3
 
@@ -521,7 +505,7 @@ group process like that.”*
 
 ![Variation of group organisation and instrument structure compared with
 starting
-point.[]{data-label="fig:collaboration"}](img/collaboration.jpg){width="1\columnwidth"}
+point.[]{data-label="fig:collaboration"}](../img/collaboration.jpg){width="1\columnwidth"}
 
 Discussion
 ==========
@@ -540,10 +524,10 @@ differences of craft, an alternative strategy could involve participants
 presenting and comparing their own instruments that have similar
 functions, forms or design processes.
 
-The goal of un-crafting [@murer_-crafting:_2017] the AirHarp into the
-Unfinished Instrument was to present something complete in terms of
-synthesis and sensors, but open to interpretation in terms of
-performance and gestures. While the instrument could only be
+The goal of un-crafting (Murer, Fuchsberger, and Tscheligi 2017) the
+AirHarp into the Unfinished Instrument was to present something complete
+in terms of synthesis and sensors, but open to interpretation in terms
+of performance and gestures. While the instrument could only be
 “re-crafted” so much in one hour, the instruments exhibited personality
 and style, and they inspired collaboration and discussion. Some
 participants wanted the code to be more accessible, and some were
@@ -563,24 +547,23 @@ abundance and malleability led to their combination and destruction as
 needed. Participants were aided by not being attached to materialised
 ideas, perhaps due to the familiarity and low cost of the materials.
 This contrasts with circuitry-based workshops where participants
-interacted in a cautious and apprehensive manner
-[@mcpherson_designing_2016]. The instrument parts were used and
-repurposed in surprising ways, sometimes fictitious ones as in G2’s
-instrument. Some groups distinguished between instrument parts and
-crafting materials, while others blurred this line completely. After
-initial disappointment with the instrument’s lack of responsiveness,
-participants discovered stroking, hitting, scraping, throwing, twisting,
-pulling, pushing, sawing, singing, shaking, whacking, dropping and more.
-The hands-on way of working offered fast iteration of testing gestural
-ideas and sharing and critiquing the results, to the extent that many
-ideas were explored simultaneously. A notable pattern of activity across
-groups was the curation of a portfolio of gestures, which were
-continuously refined as new materials were incorporated into the
-instrument. When demonstrating their instruments to each other at the
-end of the workshop, participants were not required to perform however
-this was vital to some groups. The outcomes indicate that“making the
-instrument malleable” [@andersen_instrument_2017] is not only applicable
-in fictional model-making scenarios.
+interacted in a cautious and apprehensive manner (A. P. McPherson et al.
+2016). The instrument parts were used and repurposed in surprising ways,
+sometimes fictitious ones as in G2’s instrument. Some groups
+distinguished between instrument parts and crafting materials, while
+others blurred this line completely. After initial disappointment with
+the instrument’s lack of responsiveness, participants discovered
+stroking, hitting, scraping, throwing, twisting, pulling, pushing,
+sawing, singing, shaking, whacking, dropping and more. The hands-on way
+of working offered fast iteration of testing gestural ideas and sharing
+and critiquing the results, to the extent that many ideas were explored
+simultaneously. A notable pattern of activity across groups was the
+curation of a portfolio of gestures, which were continuously refined as
+new materials were incorporated into the instrument. When demonstrating
+their instruments to each other at the end of the workshop, participants
+were not required to perform however this was vital to some groups. The
+outcomes indicate that“making the instrument malleable” (Andersen and
+Gibson 2017) is not only applicable in fictional model-making scenarios.
 
 Exploring collaborative process
 -------------------------------
@@ -609,11 +592,11 @@ comparative approach with other tools and methods. We perceive potential
 in further integration of electronic and digital crafting materials and
 methods such as e-textiles, paper electronics and live coding. Such
 materials could not only be more pragmatic, but also more open and
-inclusive in terms of subjective exploration
-[@stewart_making_2018; @qi_code_2017; @ogborn_live_2016]. Since
-participants seemed to curate collections of gestures in the workshop,
-amplifying this behaviour with tools for rapid capture and comparison of
-gestural ideas could also be a promising line of investigation.
+inclusive in terms of subjective exploration (Stewart, Skach, and Bin
+2018; Qi, Demir, and Paradiso 2017; Ogborn 2016). Since participants
+seemed to curate collections of gestures in the workshop, amplifying
+this behaviour with tools for rapid capture and comparison of gestural
+ideas could also be a promising line of investigation.
 
 Conclusion
 ==========
@@ -647,6 +630,114 @@ Freeman, Arthur Carabott, Ezra Teboul, Avneesh Sarwate, Anna Xambo, Thor
 Magnusson, Sarah Kettley and Flora Dennis. This research is supported by
 EPSRC under grants EP/L01632X/1 (Centre for Doctoral Training in Media
 and Arts Technology) and EP/N005112/1 (Design for Virtuosity).
+
+Andersen, Kristina, and Dan Gibson. 2017. “The Instrument as the Source
+of New in New Music.” *Design Issues* 33 (3): 37–55.
+
+Armitage, Jack, Fabio Morreale, and Andrew McPherson. 2017. “‘The Finer
+the Musician, the Smaller the Details’: NIMEcraft Under the Microscope.”
+In *Proc. NIME*.
+
+Bertelsen, Olav W., Morten Breinbjerg, and Søren Pold. 2009. “Emerging
+Materiality: Reflections on Creative Use of Software in Electronic Music
+Composition.” *Leonardo* 42 (3): 197–202.
+
+Calegario, F., M. M. Wanderley, S. Huot, G. Cabral, and G. Ramalho.
+2017. “A Method and Toolkit for Digital Musical Instruments: Generating
+Ideas and Prototypes.” *IEEE MultiMedia* 24 (1): 63–71.
+doi:[10.1109/MMUL.2017.18](https://doi.org/10.1109/MMUL.2017.18).
+
+Dix, Alan. 2007. “Designing for Appropriation.” In *Proceedings of the
+21st British HCI Group Annual Conference on People and Computers: HCI...
+but Not as We Know It-Volume 2*.
+
+Flood, Lauren. 2016. “Building and Becoming: DIY Music Technology in New
+York and Berlin.” PhD thesis, Columbia University.
+
+Goldschmidt, Gabriela. 2014. *Linkography: Unfolding the Design
+Process*. MIT Press.
+<https://books.google.com/books?hl=en&lr=&id=jXEbAwAAQBAJ&oi=fnd&pg=PR7&ots=4Z1Wb5qSdF&sig=fCK9jcSMmMCyWSpLm0qi1CktFpY>.
+
+Hornecker, Eva. 2012. “Beyond Affordance: Tangibles’ Hybrid Nature.” In
+*Proceedings of the Sixth International Conference on Tangible, Embedded
+and Embodied Interaction*, 175–82. ACM.
+
+Houde, Stephanie, and Charles Hill. 1997. “What Do Prototypes
+Prototype.” *Handbook of Human-Computer Interaction* 2: 367–81.
+<https://books.google.co.uk/books?hl=en&lr=&id=WuQbERgXR10C&oi=fnd&pg=PA367&dq=What+do+Prototypes+Prototype%3F&ots=--zBlHTFmT&sig=1OL0wqeXTFR0OI6EAZ6yFfY8eQo>.
+
+Jordà, Sergi. 2005. “Digital Lutherie: Crafting Musical Computers for
+New Musics’ Performance and Improvisation.” PhD thesis, Universitat
+Pompeu Fabra. <http://mtg.upf.edu/node/449>.
+
+Kettley, Sarah. 2012. “The Foundations of Craft: A Suggested Protocol
+for Introducing Craft to Other Disciplines.” *Craft Research* 3 (1):
+33–51.
+<http://www.ingentaconnect.com/content/intellect/CRRE/2012/00000003/00000001/art00003>.
+
+Lindell, Rikard. 2014. “Crafting Interaction: The Epistemology of Modern
+Programming.” *Personal and Ubiquitous Computing* 18 (3): 613–24.
+<http://link.springer.com/article/10.1007/s00779-013-0687-6>.
+
+Magnusson, Thor. 2009. “Of Epistemic Tools: Musical Instruments as
+Cognitive Extensions.” *Organised Sound* 14 (02): 168–76.
+<http://journals.cambridge.org/abstract_S1355771809000272>.
+
+———. 2010. “Designing Constraints: Composing and Performing with Digital
+Musical Systems.” *Computer Music Journal* 34 (4): 62–73.
+<http://www.mitpressjournals.org/doi/pdf/10.1162/COMJ_a_00026>.
+
+McPherson, Andrew P., Alan Chamberlain, Adrian Hazzard, Sean McGrath,
+and Steve Benford. 2016. “Designing for Exploratory Play with a Hackable
+Digital Musical Instrument.” In *Proceedings of the ACM Conference on
+Designing Interactive Systems*. ACM.
+
+McPherson, Andrew, and Victor Zappi. 2015. “An Environment for
+Submillisecond-Latency Audio and Sensor Processing on BeagleBone Black.”
+In *Audio Engineering Society Convention 138*.
+<http://www.aes.org/e-lib/browse.cfm?elib=17755>.
+
+Monache, Stefano Delle, and Davide Rocchesso. 2016. “Cooperative Sound
+Design: A Protocol Analysis.” In *Proceedings of the Audio Mostly 2016*,
+154–61. AM ’16. New York, NY, USA: ACM.
+doi:[10.1145/2986416.2986424](https://doi.org/10.1145/2986416.2986424).
+
+Mooney, James. 2011. “Frameworks and Affordances: Understanding the
+Tools of Music-Making.” *Journal of Music, Technology and Education* 3
+(2): 141–54.
+
+Morreale, Fabio, and Andrew McPherson. 2017. “Design for Longevity:
+Ongoing Use of Instruments from Nime 2010-14.” In *Proc. Nime*, 192–97.
+
+Murer, Martin, Verena Fuchsberger, and Manfred Tscheligi. 2017.
+“Un-Crafting: De-Constructive Engagements with Interactive Artifacts.”
+In *Proceedings of the Tenth International Conference on Tangible,
+Embedded, and Embodied Interaction*.
+
+Ogborn, David. 2016. “Live Coding Together: Three Potentials of
+Collective Live Coding.” *Journal of Music, Technology and Education* 9
+(1): 17–31.
+
+Perner-Wilson, Hannah, Leah Buechley, and Mika Satomi. 2011.
+“Handcrafting Textile Interfaces from a Kit-of-No-Parts.” In
+*Proceedings of the Fifth International Conference on Tangible,
+Embedded, and Embodied Interaction*, 61–68. ACM.
+
+Preston, William, Steve Benford, Emily-Clare Thorn, Boriana Koleva,
+Stefan Rennick-Egglestone, Richard Mortier, Anthony Quinn, John Stell,
+and Michael Worboys. 2017. “Enabling Hand-Crafted Visual Markers at
+Scale.” In *Proceedings of the 2017 Conference on Designing Interactive
+Systems*, 1227–37. ACM.
+
+Qi, Jie, Asli Demir, and Joseph A. Paradiso. 2017. “Code Collage:
+Tangible Programming on Paper with Circuit Stickers.” In *Proceedings of
+the 2017 CHI Conference Extended Abstracts on Human Factors in Computing
+Systems*, 1970–7. ACM.
+
+Stewart, Rebecca, Sophie Skach, and Astrid Bin. 2018. “Making Grooves
+with Needles: Using E-Textiles to Encourage Gender Diversity in Embedded
+Audio Systems Design.” In *DIS ’18: Designing Interactive Systems
+Conference 2018*, 10. Hong Kong: ACM.
 
 [^1]: Search AirHarp in http://github.com/bela/belaplatform
 
