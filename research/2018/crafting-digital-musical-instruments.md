@@ -4,6 +4,8 @@ layout: default
 
 # Crafting Digital Musical Instruments: An Exploratory Workshop Study
 
+Jack Armitage & Andrew McPherson. Proceedings of the International Conference on New Interfaces for Musical Expression (NIME), 2018.
+
 Abstract
 --------
 
