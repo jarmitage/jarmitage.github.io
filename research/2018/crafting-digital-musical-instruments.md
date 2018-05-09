@@ -72,7 +72,7 @@ Subsequently the workshop design is detailed, and the outcomes are
 reported on and discussed. We conclude by reflecting on their possible
 consequences for combining instrument design tools and methods.
 
-![image](../img/2018_designprocess_sm.jpg){width="100.00000%"}
+![image](../img/2018_designprocess_sm.jpg)
 
 Background
 ==========
@@ -267,7 +267,7 @@ slowly change octaves, but mis-judged the size of the buffer so we
 created an extremely fast arpeggiator (like 8-bit video game polyphony)
 instead, which turned out to give our instrument a unique sound.”*
 
-![image](../img/2018_results_sm.jpg){width="100.00000%"}
+![image](../img/2018_results_sm.jpg)
 
 ### Group 3
 
@@ -503,9 +503,7 @@ wasn’t one person’s.”*
 **G2:** *“It was interesting because I never made an instrument in a
 group process like that.”*
 
-![Variation of group organisation and instrument structure compared with
-starting
-point.[]{data-label="fig:collaboration"}](../img/2018_collaboration.jpg){width="1\columnwidth"}
+![Variation of group organisation and instrument structure compared with starting point.](../img/2018_collaboration.jpg)
 
 Discussion
 ==========
@@ -513,8 +511,7 @@ Discussion
 Exploring constraints and constraining exploration
 --------------------------------------------------
 
-The brief presented the workshop as an opportunity to reflect on subtle
-differences between outcomes given an identical starting point, however
+The brief presented the workshop as an opportunity to reflect on subtle differences between outcomes given an identical starting point, however
 this was mismatched with the unconstrained environment. Instead of
 responding to this brief, most responded to what emerged from their
 ideas and engaging with each other. Although this scripting of the
@@ -630,6 +627,9 @@ Freeman, Arthur Carabott, Ezra Teboul, Avneesh Sarwate, Anna Xambo, Thor
 Magnusson, Sarah Kettley and Flora Dennis. This research is supported by
 EPSRC under grants EP/L01632X/1 (Centre for Doctoral Training in Media
 and Arts Technology) and EP/N005112/1 (Design for Virtuosity).
+
+References
+==========
 
 Andersen, Kristina, and Dan Gibson. 2017. “The Instrument as the Source
 of New in New Music.” *Design Issues* 33 (3): 37–55.
