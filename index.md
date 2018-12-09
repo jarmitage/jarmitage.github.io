@@ -30,8 +30,6 @@ Jack Armitage & Andrew McPherson. _Proceedings of the International Conference o
 
 -----
 
------
-
 #### Effect of Instrument Structure Alterations on Violin Performance
 
 Fabio Morreale, Jack Armitage & Andrew McPherson. _Frontiers in Psychology_, 2018.
