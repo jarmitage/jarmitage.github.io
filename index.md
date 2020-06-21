@@ -10,14 +10,8 @@ layout: default
 
 [PhD candidate](http://instrumentslab.org/research/craft), [Media & Arts Technologies](http://www.mat.qmul.ac.uk/), QMUL.
 
-Music:
-- [Eponymous](https://www.youtube.com/channel/UC5KD9-xh1dIlX4qjQs0VLjQ)
-- [Lil Data](https://twitter.com/lildata)
-- [Offer](http://offer.band/)
+Music: [Eponymous](https://www.youtube.com/channel/UC5KD9-xh1dIlX4qjQs0VLjQ), [Lil Data](https://twitter.com/lildata), [Offer](http://offer.band/).
 
-Previous:
-- [ROLI](http://roli.com)
-- [Georgia Tech Center for Music Technology](http://gtcmt.gatech.edu)
-- [University of Leeds](https://courses.leeds.ac.uk/a617/music-multimedia-and-electronics-bsc).
+Previous: [ROLI](http://roli.com), [Georgia Tech](http://gtcmt.gatech.edu), [University of Leeds](https://courses.leeds.ac.uk/a617/music-multimedia-and-electronics-bsc).
 
 [Contact](mailto:jack@jackarmitage.com) | [GitHub](http://github.com/jarmitage) | [Twitter](http://twitter.com/jdkarmitage) | [Instagram](http://instagram.com/jdkarmitage) | [Google Scholar](https://scholar.google.com/citations?user=APvoBhUAAAAJ)
