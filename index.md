@@ -4,7 +4,7 @@ layout: default
 
 ### Jack Armitage
 
-Current: Postdoctoral Research Fellow, [Intelligent Instruments Lab](http://iil.is), Iceland University of the Arts, Reykjavík, Iceland.
+Current: Postdoctoral Research Fellow, [Intelligent Instruments Lab](http://iil.is), Iceland.
 
 - [Contact](mailto:jack@jackarmitage.com)
 - [Google Scholar](https://scholar.google.com/citations?user=APvoBhUAAAAJ)
