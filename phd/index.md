@@ -1,6 +1,6 @@
 # Subtlety and detail in digital musical instrument design
 
-Available at [Queen Mary Research Online](https://qmro.qmul.ac.uk/xmlui/handle/123456789/79327)
+Full PDF available at [Queen Mary Research Online](https://qmro.qmul.ac.uk/xmlui/handle/123456789/79327).
 
 ## Abstract
 
