@@ -1,4 +1,4 @@
-import './swissgl.js'
+// import './swissgl.js'
 
 // Copyright 2023 Google LLC
 
