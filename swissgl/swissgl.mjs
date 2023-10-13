@@ -811,8 +811,8 @@ function SwissGL(canvas_gl) {
     return glsl;
 }
 
-self._SwissGL = SwissGL;
+// self._SwissGL = SwissGL;
 
-const SwissGL = self._SwissGL;
+// const SwissGL = self._SwissGL;
 
 export default SwissGL;
